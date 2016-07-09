@@ -1,0 +1,5 @@
+#define PrivateConfig_h
+
+#define WIFI_SSID "wifi ssid goes here";
+#define WIFI_PASSWORD "wifi password goes here";
+#define BYLNK_TOKEN "bylnk token goes here";
